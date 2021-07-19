@@ -1,5 +1,5 @@
 fastapi==0.66.0
-secrets==1.0.2
+secrets
 gunicorn==20.1.0
 uvloop
 httptools
