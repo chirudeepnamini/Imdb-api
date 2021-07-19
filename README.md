@@ -1,6 +1,6 @@
 # imdb-api
 This api is deployed at DETA.<br />
-Request:
+Request:<br />
 https://gqycaf.deta.dev/get-random-movie/{movie_rating}?numVotes={number_of_votes}<br /> 
 Here you will be given a movie info with rating  greater than or equal to movie_rating and number of ratings greater than or equal to number_of_votes.<br /> 
 Here query parameter numVotes is optional.<br /> 
